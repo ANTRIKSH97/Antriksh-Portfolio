@@ -117,6 +117,7 @@ export default function About() {
                     <div className="absolute left-[-5px] top-2 h-3 w-3 rounded-full bg-primary"></div>
                     <h4 className="font-semibold text-lg">Master of Computer Applications (MCA)</h4>
                     <p className="text-foreground/70">JSS Academy of Technical Education</p>
+                    <p className="text-foreground/70">Noida</p>
                     <p className="text-sm text-foreground/60">Present</p>
                   </motion.li>
                   <motion.li
