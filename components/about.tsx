@@ -143,8 +143,20 @@ export default function About() {
                     <div className="absolute left-[-5px] top-2 h-3 w-3 rounded-full bg-purple-600"></div>
                     <h4 className="font-semibold text-lg">Transportix company</h4>
                     <p className="text-foreground/70">Web Developer Intern</p>
-                    <p className="text-foreground/70">Noida</p>
+                    <p className="text-foreground/70">remote</p>
                     <p className="text-sm text-foreground/60">Nov 2024 - Jan 2025</p>
+                  </motion.li>
+                   <motion.li
+                    className="relative pl-8 before:absolute before:left-0 before:top-0 before:h-full before:w-[2px] before:bg-gradient-to-b before:from-purple-600 before:to-transparent"
+                    initial={{ opacity: 0, x: 20 }}
+                    animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: 20 }}
+                    transition={{ duration: 0.5, delay: 0.4 }}
+                  >
+                    <div className="absolute left-[-5px] top-2 h-3 w-3 rounded-full bg-purple-600"></div>
+                    <h4 className="font-semibold text-lg">Algebra Softech</h4>
+                    <p className="text-foreground/70">Frontend Developer Intern</p>
+                    <p className="text-foreground/70">remote</p>
+                    <p className="text-sm text-foreground/60">May 2025 - Present</p>
                   </motion.li>
                 </ul>
               </div>
