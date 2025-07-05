@@ -187,7 +187,7 @@ export default function Hero() {
                 size="lg"
                 className="rounded-full px-8 py-6 text-lg group relative overflow-hidden border-primary/30 hover:border-primary/80"
               >
-                <a href="/Antrikshdubey-resume-.pdf" download>
+                <a href="/AntrikshDubey(Resume).pdf" download>
                   <span className="relative z-10 flex items-center">
                     <Download className="mr-2 h-5 w-5 group-hover:animate-bounce" /> Download Resume
                   </span>
