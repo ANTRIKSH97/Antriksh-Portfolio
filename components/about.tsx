@@ -118,7 +118,7 @@ export default function About() {
                     <h4 className="font-semibold text-lg">Master of Computer Applications (MCA)</h4>
                     <p className="text-foreground/70">JSS Academy of Technical Education</p>
                     <p className="text-foreground/70">Noida</p>
-                    <p className="text-sm text-foreground/60">Present</p>
+                    <p className="text-sm text-foreground/60">2023-2025</p>
                   </motion.li>
                   <motion.li
                     className="relative pl-8 before:absolute before:left-0 before:top-0 before:h-full before:w-[2px] before:bg-gradient-to-b before:from-purple-600 before:to-transparent"
