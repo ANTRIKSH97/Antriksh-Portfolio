@@ -143,7 +143,7 @@ export default function About() {
                     <div className="absolute left-[-5px] top-2 h-3 w-3 rounded-full bg-purple-600"></div>
                     <h4 className="font-semibold text-lg">Transportix company</h4>
                     <p className="text-foreground/70">Web Developer Intern</p>
-                    <p className="text-foreground/70">remote</p>
+                    <p className="text-foreground/70">Remote</p>
                     <p className="text-sm text-foreground/60">Nov 2024 - Jan 2025</p>
                   </motion.li>
                    <motion.li
@@ -154,9 +154,9 @@ export default function About() {
                   >
                     <div className="absolute left-[-5px] top-2 h-3 w-3 rounded-full bg-purple-600"></div>
                     <h4 className="font-semibold text-lg">Algebra Softech</h4>
-                    <p className="text-foreground/70">Frontend Developer Intern</p>
-                    <p className="text-foreground/70">remote</p>
-                    <p className="text-sm text-foreground/60">May 2025 - Present</p>
+                    <p className="text-foreground/70">Frontend Developer</p>
+                    <p className="text-foreground/70">Remote</p>
+                    <p className="text-sm text-foreground/60">Feb 2025 - Present</p>
                   </motion.li>
                 </ul>
               </div>
